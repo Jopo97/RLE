@@ -1,2 +1,2 @@
 # RLE
-Run Length Algorithm Implementation
+Run-Length Encoding Algorithm Implementation
